@@ -1,7 +1,7 @@
 #####################################################################
 #                                                                   #
-#        This program will automatically run 'run' and check        #
-#             if any undocumented computers are online              #
+#        This program will automatically run the run dialog and     #
+#           check if any undocumented computers are online          #
 #                                                                   #
 #####################################################################
 
